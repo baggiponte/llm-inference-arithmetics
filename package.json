@@ -1,0 +1,9 @@
+{
+  "name": "llm-inference-arithmetics",
+  "private": true,
+  "dependencies": {
+    "@slidev/cli": "^0.46.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}
